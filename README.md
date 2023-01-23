@@ -1,3 +1,3 @@
 # The very first repository
 
-I'm freaking scared
+Excited to learn stuff!
